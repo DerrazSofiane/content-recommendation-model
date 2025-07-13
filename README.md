@@ -1,6 +1,6 @@
 # Content Recommendation Model - MLOps POC 🚀
 
-## OpenClassrooms Project 9: End-to-End MLOps Implementation
+## Project: End-to-End MLOps Implementation
 
 ### 📋 Project Overview
 This project demonstrates a complete MLOps pipeline for a content recommendation system. It showcases best practices in model development, deployment, monitoring, and continuous integration/continuous deployment (CI/CD) for machine learning systems.
@@ -306,8 +306,5 @@ class ABTestController:
 - Monitoring playbooks
 - Troubleshooting guides
 
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
-
 ---
-*Note: This educational project demonstrates industry-standard MLOps practices essential for maintaining ML systems in production. The techniques shown are applicable to any ML deployment scenario.*
+*Note: This project demonstrates industry-standard MLOps practices essential for maintaining ML systems in production. The techniques shown are applicable to any ML deployment scenario.*
